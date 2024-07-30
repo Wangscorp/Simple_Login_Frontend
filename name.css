@@ -1,0 +1,14 @@
+form{
+    text-align:center;
+    color:rgb(44, 223, 20);
+    background-color: pink;
+    border-radius:15px;
+    border-color:purple;
+
+}
+ body{
+    text-align:center;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+} 
